@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me jmappsmuslum@gmail.com
 - 🙈 Those wishing to support the project. Bitcоin: 13B9fMAxXFCSkLnkHFNrA2D2xAZtyMaWxy
-![My stats](https://github.com/jmapps/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jmapps/github-stats/blob/master/generated/languages.svg)
