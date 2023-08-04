@@ -2,4 +2,4 @@
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me jmappsmuslum@gmail.com
-- 🙈 Those wishing to support the project. Bitcоin: 13B9fMAxXFCSkLnkHFNrA2D2xAZtyMaWxy
+- 🙈 Those wishing to support the project. Bitcоin BTC: bc1qx9w04ru4udp7zwswzkel2lqagrzas2uwn6hzrh
