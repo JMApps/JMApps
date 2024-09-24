@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JMApps
+- 👋 I’m @JMApps
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me jmappsmuslum@gmail.com
